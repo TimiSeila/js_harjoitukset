@@ -11,3 +11,7 @@ Tein tehtävät: 1, 2
 ## [Moduuli 3](https://users.metropolia.fi/~timise/js_harjoitukset/mod03)
 
 Tein tehtävät: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+
+## [Moduuli 4](https://users.metropolia.fi/~timise/js_harjoitukset/mod04)
+
+Tein tehtävät: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
